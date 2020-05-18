@@ -4,7 +4,9 @@ This repo contains the assignments of the course and their solution. The program
 The assignments cover the following topics:
 - Assignment 1:
   - First-order deterministic convex optimization methods. Programming part: subgradient descent (sub-GD), gradient descent (GD), and accelerated gradient descent (AGD) for linear regression.\
-    ![](./Assignment1/outputs/opt_gap_plot_PD.png)
+    <p align="center">
+      <img src="Assignment1/outputs/opt_gap_plot_PD.png" width="350">
+    </p>
 
 
 

@@ -7,6 +7,11 @@ The assignments cover the following topics:
   <p align="center">
   <img src="Assignment1/outputs/opt_gap_plot_PD.png" width="400">
 </p>
+- Assignment 2:
+  - Frank-Wolfe (conditional gradient method), first-order stochastic convex optimization methods. Programming part: stochastic gradient descent (SGD) + mini-batch version and stochastic variance-reduced gradient (SVRG) method for linear regression (as in Assigment 1).
+  <p align="center">
+  <img src="Assignment2/outputs/opt_gap.png" width="400">
+</p>
 
 
 

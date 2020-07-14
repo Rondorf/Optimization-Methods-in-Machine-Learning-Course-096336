@@ -12,6 +12,11 @@ The assignments cover the following topics:
   <p align="center">
   <img src="Assignment2/outputs/opt_gap.png" width="400">
 </p>
+- Assignment 3:
+  - Online learning algorithms: Follow-the-Leader (FTL), Online Gradient Descent (OGD), FKM. Programming part: OGD, Online Exponentiated Gradient (OEG) and Online Newton Step (ONS) applied to the online rebalancing portfolio selection (ORPS) problem with stocks data.
+    <p align="center">
+  <img src="Assignment3/outputs/yield_wo_best.png" width="400">
+</p>
 
 
 
